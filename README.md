@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![profile views](https://komarev.com/ghpvc/?username=yysrll)
 
-![Yusril's GitHub stats](https://github-readme-stats.vercel.app/api?username=yysrll&show_icons=true&theme=dark)<br />
+![Yusril's GitHub stats](https://github-readme-stats.vercel.app/api?username=yysrll&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark)<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yysrll&theme=radical)
