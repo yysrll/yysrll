@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-
 ![profile views](https://komarev.com/ghpvc/?username=yysrll)
 
 ![Yusril's GitHub stats](https://github-readme-stats.vercel.app/api?username=yysrll&show_icons=true&theme=dark)<br />
