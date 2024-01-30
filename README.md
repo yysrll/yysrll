@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![profile views](https://komarev.com/ghpvc/?username=yysrll)
 
-![Yusril's GitHub stats](https://github-readme-stats.vercel.app/api?username=yysrll&count_private=true&show_icons=true&theme=dark)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/yysrll/langs)](https://githubtrends.io)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yysrll&layout=compact&theme=dark)
+![Yusril's GitHub stats](https://github-readme-stats.vercel.app/api?username=yysrll&count_private=true&show_icons=true&theme=dark)
